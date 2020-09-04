@@ -1,0 +1,18 @@
+# Theme metadata
+name = "min_jph_gsu"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#0071CE"
+
+# Menu
+menu_primary = "#0039A6"
+menu_text = "#FFFFFF"
+menu_text_active = "#97CAEB"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
