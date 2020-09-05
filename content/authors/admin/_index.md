@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-James Patrick Henson is a PhD Canidate at Georgia State University and a Research Assistant at the Federal Reserve Bank of Atlanta.
+James Patrick Henson is a PhD Candidate at Georgia State University and a Research Assistant at the Federal Reserve Bank of Atlanta.
 
