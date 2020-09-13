@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Dealing with Programming, Hardware, and Modeling problems with Big Data Projects
-  * Working with Confidential Data
-  * Updating and maintaining consumer financial data for policy research.
+  * In charge of maintaining and analyzing big data research projects involving the New York Fed Consumer Credit Panel / Equifax data.
+  * Developed programs to draw data directly from the Census, BLS, and FRED to provide up to date data for emerging policy problems. 
+  * Improved Stata programs in High-performance computing environment to finish 75% faster. 
+  * Implemented data version control and security improvements to existing projects.
   """
 
 [[experience]]
@@ -42,9 +43,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Helping with literature review, data collection , and technical editing of papers
-  * Coding of Macroeconomic dynamic general equilibrium models
-
+  * Worked on creating health datasets from micro-level data to help create a novel overlapping generations model (OLG).
+  * Researched and created create cohost survival rate by age projections for the years 2025, 2050, and 2080 to make overlapping generations model (OLG) more realistic. 
+  * Developed a novel dataset that required hand coding with the Consumer Expenditure Survey to have health expenditure by age for the years 1980 to 2015.
+  
   Older experience listed in CV
   """
 
